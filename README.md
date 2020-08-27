@@ -1,2 +1,2 @@
 # vrplotunity3d
-A proto for a data plotting TCP server for R. Use the R package [vrplot] (https://github.com/jpronkko/R-to-Unity3D.git) to send commands from R to the plotter. You need to have the plotter running either in the Unity3D editor or a compiled executable for this to work.
+A proto for a data plotting TCP server for R. Use the R package [vrplot] (https://github.com/jpronkko/R-to-Unity3D) to send commands from R to the plotter. You need to have the plotter running either in the Unity3D editor or a compiled executable for this to work. You need to import the TextMesh Pro essentials to your Unity3D project for the project to work. You can do this by selecting Window->TextMeshPro->Import TMP Essential Sources from the Unity3D menubar.
