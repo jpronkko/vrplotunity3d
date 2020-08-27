@@ -1,2 +1,2 @@
 # vrplotunity3d
-A data plotting TCP server for R
+A proto for a data plotting TCP server for R
